@@ -13,6 +13,7 @@ Use Material3 design and keep navigation bar transparent in themes.xml file
 Add android.permission.SCHEDULE_EXACT_ALARM Permission in Manifest file
 
 Light Mode :
+
 ![image](https://user-images.githubusercontent.com/110656702/202903658-4d87b74f-13ed-48b7-86b8-749fe3ae5701.png)
 
 ![image](https://user-images.githubusercontent.com/110656702/202903669-27b04886-4d78-4223-a8ac-3ba393bc3249.png)
@@ -21,6 +22,7 @@ Light Mode :
 
 
 Dark Mode :
+
 ![image](https://user-images.githubusercontent.com/110656702/202903605-9972464c-50fe-4851-8c95-734168e8cf5a.png)
 
 ![image](https://user-images.githubusercontent.com/110656702/202903627-28cbf79d-5c4f-4818-900c-e246c08f46e4.png)
